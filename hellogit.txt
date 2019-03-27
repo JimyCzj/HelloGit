@@ -1,1 +1,2 @@
-git is a free project
+git is a free project,a free version control system
+Git tracks changes.
